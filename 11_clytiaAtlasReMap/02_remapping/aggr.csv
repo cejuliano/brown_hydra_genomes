@@ -1,0 +1,3 @@
+﻿sample_id,molecule_h5
+lane1,lane1/outs/molecule_info.h5
+lane2,lane2/outs/molecule_info.h5

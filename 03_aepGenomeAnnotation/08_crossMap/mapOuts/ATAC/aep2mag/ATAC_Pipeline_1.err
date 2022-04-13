@@ -1,0 +1,277 @@
+Module bowtie2/2.2.6 loaded 
+Module samtools/1.2 loaded 
+Module fastqc/0.11.4 loaded 
+Module bedtools/2.25 loaded 
+Module JAVA 1.8 Loaded.
+Started analysis of AEP2_ATAC_R1.fastq.gz
+Started analysis of AEP2_ATAC_R2.fastq.gz
+Approx 5% complete for AEP2_ATAC_R1.fastq.gz
+Approx 5% complete for AEP2_ATAC_R2.fastq.gz
+Approx 10% complete for AEP2_ATAC_R1.fastq.gz
+Approx 10% complete for AEP2_ATAC_R2.fastq.gz
+Approx 15% complete for AEP2_ATAC_R1.fastq.gz
+Approx 15% complete for AEP2_ATAC_R2.fastq.gz
+Approx 20% complete for AEP2_ATAC_R1.fastq.gz
+Approx 20% complete for AEP2_ATAC_R2.fastq.gz
+Approx 25% complete for AEP2_ATAC_R1.fastq.gz
+Approx 25% complete for AEP2_ATAC_R2.fastq.gz
+Approx 30% complete for AEP2_ATAC_R1.fastq.gz
+Approx 30% complete for AEP2_ATAC_R2.fastq.gz
+Approx 35% complete for AEP2_ATAC_R1.fastq.gz
+Approx 35% complete for AEP2_ATAC_R2.fastq.gz
+Approx 40% complete for AEP2_ATAC_R1.fastq.gz
+Approx 40% complete for AEP2_ATAC_R2.fastq.gz
+Approx 45% complete for AEP2_ATAC_R1.fastq.gz
+Approx 45% complete for AEP2_ATAC_R2.fastq.gz
+Approx 50% complete for AEP2_ATAC_R1.fastq.gz
+Approx 50% complete for AEP2_ATAC_R2.fastq.gz
+Approx 55% complete for AEP2_ATAC_R1.fastq.gz
+Approx 55% complete for AEP2_ATAC_R2.fastq.gz
+Approx 60% complete for AEP2_ATAC_R1.fastq.gz
+Approx 60% complete for AEP2_ATAC_R2.fastq.gz
+Approx 65% complete for AEP2_ATAC_R1.fastq.gz
+Approx 65% complete for AEP2_ATAC_R2.fastq.gz
+Approx 70% complete for AEP2_ATAC_R1.fastq.gz
+Approx 70% complete for AEP2_ATAC_R2.fastq.gz
+Approx 75% complete for AEP2_ATAC_R1.fastq.gz
+Approx 75% complete for AEP2_ATAC_R2.fastq.gz
+Approx 80% complete for AEP2_ATAC_R1.fastq.gz
+Approx 80% complete for AEP2_ATAC_R2.fastq.gz
+Approx 85% complete for AEP2_ATAC_R1.fastq.gz
+Approx 85% complete for AEP2_ATAC_R2.fastq.gz
+Approx 90% complete for AEP2_ATAC_R1.fastq.gz
+Approx 90% complete for AEP2_ATAC_R2.fastq.gz
+Approx 95% complete for AEP2_ATAC_R1.fastq.gz
+Approx 95% complete for AEP2_ATAC_R2.fastq.gz
+TrimmomaticPE: Started with arguments:
+ -threads 16 -phred33 resources/AEP2_ATAC_R1.fastq.gz resources/AEP2_ATAC_R2.fastq.gz AEP2_ATAC_R1_trim_P.fastq.gz AEP2_ATAC_R1_trim_UP.fastq.gz AEP2_ATAC_R2_trim_P.fastq.gz AEP2_ATAC_R2_trim_UP.fastq.gz ILLUMINACLIP:resources/NexteraPE-PE.fa:2:30:10:2:true TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:32
+Using PrefixPair: 'AGATGTGTATAAGAGACAG' and 'AGATGTGTATAAGAGACAG'
+Using Long Clipping Sequence: 'GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAG'
+Using Long Clipping Sequence: 'TCGTCGGCAGCGTCAGATGTGTATAAGAGACAG'
+Using Long Clipping Sequence: 'CTGTCTCTTATACACATCTCCGAGCCCACGAGAC'
+Using Long Clipping Sequence: 'CTGTCTCTTATACACATCTGACGCTGCCGACGA'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 38095986 Both Surviving: 37154963 (97.53%) Forward Only Surviving: 626963 (1.65%) Reverse Only Surviving: 154790 (0.41%) Dropped: 159270 (0.42%)
+TrimmomaticPE: Completed successfully
+Started analysis of AEP2_ATAC_R1_trim_P.fastq.gz
+Started analysis of AEP2_ATAC_R2_trim_P.fastq.gz
+Approx 5% complete for AEP2_ATAC_R1_trim_P.fastq.gz
+Approx 5% complete for AEP2_ATAC_R2_trim_P.fastq.gz
+Approx 10% complete for AEP2_ATAC_R1_trim_P.fastq.gz
+Approx 10% complete for AEP2_ATAC_R2_trim_P.fastq.gz
+Approx 15% complete for AEP2_ATAC_R1_trim_P.fastq.gz
+Approx 15% complete for AEP2_ATAC_R2_trim_P.fastq.gz
+Approx 20% complete for AEP2_ATAC_R2_trim_P.fastq.gz
+Approx 20% complete for AEP2_ATAC_R1_trim_P.fastq.gz
+Approx 25% complete for AEP2_ATAC_R2_trim_P.fastq.gz
+Approx 25% complete for AEP2_ATAC_R1_trim_P.fastq.gz
+Approx 30% complete for AEP2_ATAC_R2_trim_P.fastq.gz
+Approx 30% complete for AEP2_ATAC_R1_trim_P.fastq.gz
+Approx 35% complete for AEP2_ATAC_R2_trim_P.fastq.gz
+Approx 35% complete for AEP2_ATAC_R1_trim_P.fastq.gz
+Approx 40% complete for AEP2_ATAC_R2_trim_P.fastq.gz
+Approx 40% complete for AEP2_ATAC_R1_trim_P.fastq.gz
+Approx 45% complete for AEP2_ATAC_R2_trim_P.fastq.gz
+Approx 45% complete for AEP2_ATAC_R1_trim_P.fastq.gz
+Approx 50% complete for AEP2_ATAC_R2_trim_P.fastq.gz
+Approx 50% complete for AEP2_ATAC_R1_trim_P.fastq.gz
+Approx 55% complete for AEP2_ATAC_R2_trim_P.fastq.gz
+Approx 55% complete for AEP2_ATAC_R1_trim_P.fastq.gz
+Approx 60% complete for AEP2_ATAC_R2_trim_P.fastq.gz
+Approx 60% complete for AEP2_ATAC_R1_trim_P.fastq.gz
+Approx 65% complete for AEP2_ATAC_R2_trim_P.fastq.gz
+Approx 65% complete for AEP2_ATAC_R1_trim_P.fastq.gz
+Approx 70% complete for AEP2_ATAC_R2_trim_P.fastq.gz
+Approx 70% complete for AEP2_ATAC_R1_trim_P.fastq.gz
+Approx 75% complete for AEP2_ATAC_R2_trim_P.fastq.gz
+Approx 75% complete for AEP2_ATAC_R1_trim_P.fastq.gz
+Approx 80% complete for AEP2_ATAC_R2_trim_P.fastq.gz
+Approx 80% complete for AEP2_ATAC_R1_trim_P.fastq.gz
+Approx 85% complete for AEP2_ATAC_R2_trim_P.fastq.gz
+Approx 85% complete for AEP2_ATAC_R1_trim_P.fastq.gz
+Approx 90% complete for AEP2_ATAC_R2_trim_P.fastq.gz
+Approx 90% complete for AEP2_ATAC_R1_trim_P.fastq.gz
+Approx 95% complete for AEP2_ATAC_R2_trim_P.fastq.gz
+Approx 95% complete for AEP2_ATAC_R1_trim_P.fastq.gz
+37154963 reads; of these:
+  37154963 (100.00%) were paired; of these:
+    14648410 (39.43%) aligned concordantly 0 times
+    3835470 (10.32%) aligned concordantly exactly 1 time
+    18671083 (50.25%) aligned concordantly >1 times
+    ----
+    14648410 pairs aligned concordantly 0 times; of these:
+      109185 (0.75%) aligned discordantly 1 time
+    ----
+    14539225 pairs aligned 0 times concordantly or discordantly; of these:
+      29078450 mates make up the pairs; of these:
+        25098512 (86.31%) aligned 0 times
+        1209063 (4.16%) aligned exactly 1 time
+        2770875 (9.53%) aligned >1 times
+66.22% overall alignment rate
+cat: AEP2.log: No such file or directory
+cat: AEP2_genome.metfile: No such file or directory
+rm: cannot remove 'AEP2_genome.metfile': No such file or directory
+37154963 reads; of these:
+  37154963 (100.00%) were paired; of these:
+    30813197 (82.93%) aligned concordantly 0 times
+    5998927 (16.15%) aligned concordantly exactly 1 time
+    342839 (0.92%) aligned concordantly >1 times
+    ----
+    30813197 pairs aligned concordantly 0 times; of these:
+      23089 (0.07%) aligned discordantly 1 time
+    ----
+    30790108 pairs aligned 0 times concordantly or discordantly; of these:
+      61580216 mates make up the pairs; of these:
+        61553090 (99.96%) aligned 0 times
+        19026 (0.03%) aligned exactly 1 time
+        8100 (0.01%) aligned >1 times
+17.17% overall alignment rate
+cat: AEP2.log: No such file or directory
+cat: AEP2_mito.metfile: No such file or directory
+rm: cannot remove 'AEP2_mito.metfile': No such file or directory
+16:23:27.693 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/home/jacazet/Processing/crossMapComp/ATAC/a2m/resources/picard.jar!/com/intel/gkl/native/libgkl_compression.so
+[Tue Aug 31 16:23:27 PDT 2021] FilterSamReads INPUT=AEP2_genome FILTER=excludeReadList READ_LIST_FILE=AEP2_mito_IDs.txt OUTPUT=AEP2_genome_MF.sam    WRITE_READS_FILES=false VERBOSITY=INFO QUIET=false VALIDATION_STRINGENCY=STRICT COMPRESSION_LEVEL=5 MAX_RECORDS_IN_RAM=500000 CREATE_INDEX=false CREATE_MD5_FILE=false GA4GH_CLIENT_SECRETS=client_secrets.json USE_JDK_DEFLATER=false USE_JDK_INFLATER=false
+[Tue Aug 31 16:23:27 PDT 2021] Executing as jacazet@c2-33 on Linux 5.4.0-80-generic amd64; Java HotSpot(TM) 64-Bit Server VM 1.8.0_20-b26; Deflater: Intel; Inflater: Intel; Picard version: 2.17.8-SNAPSHOT
+INFO	2021-08-31 16:23:37	FilterSamReads	Filtering [presorted=true] AEP2_genome -> OUTPUT=AEP2_genome_MF.sam [sortorder=unsorted]
+INFO	2021-08-31 16:23:45	FilterSamReads	Written     1,000,000 records.  Elapsed time: 00:00:07s.  Time for last 1,000,000:    7s.  Last read position: Sc4wPfr_1981:2,948
+INFO	2021-08-31 16:23:51	FilterSamReads	Written     2,000,000 records.  Elapsed time: 00:00:13s.  Time for last 1,000,000:    6s.  Last read position: Sc4wPfr_1007:494,805
+INFO	2021-08-31 16:23:58	FilterSamReads	Written     3,000,000 records.  Elapsed time: 00:00:20s.  Time for last 1,000,000:    6s.  Last read position: Sc4wPfr_569:52,837
+INFO	2021-08-31 16:24:04	FilterSamReads	Written     4,000,000 records.  Elapsed time: 00:00:26s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:24:10	FilterSamReads	Written     5,000,000 records.  Elapsed time: 00:00:32s.  Time for last 1,000,000:    6s.  Last read position: Sc4wPfr_10:662,694
+INFO	2021-08-31 16:24:16	FilterSamReads	Written     6,000,000 records.  Elapsed time: 00:00:38s.  Time for last 1,000,000:    6s.  Last read position: Sc4wPfr_66:112,818
+INFO	2021-08-31 16:24:26	FilterSamReads	Written     7,000,000 records.  Elapsed time: 00:00:48s.  Time for last 1,000,000:    9s.  Last read position: Sc4wPfr_1107.1:1,770,925
+INFO	2021-08-31 16:24:32	FilterSamReads	Written     8,000,000 records.  Elapsed time: 00:00:54s.  Time for last 1,000,000:    6s.  Last read position: Sc4wPfr_546:1,873
+INFO	2021-08-31 16:24:38	FilterSamReads	Written     9,000,000 records.  Elapsed time: 00:01:00s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:24:44	FilterSamReads	Written    10,000,000 records.  Elapsed time: 00:01:06s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:24:49	FilterSamReads	Written    11,000,000 records.  Elapsed time: 00:01:11s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_48:94,611
+INFO	2021-08-31 16:24:55	FilterSamReads	Written    12,000,000 records.  Elapsed time: 00:01:17s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:25:01	FilterSamReads	Written    13,000,000 records.  Elapsed time: 00:01:23s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:25:06	FilterSamReads	Written    14,000,000 records.  Elapsed time: 00:01:28s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_224:1,788,186
+INFO	2021-08-31 16:25:11	FilterSamReads	Written    15,000,000 records.  Elapsed time: 00:01:34s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_2145:519,013
+INFO	2021-08-31 16:25:17	FilterSamReads	Written    16,000,000 records.  Elapsed time: 00:01:39s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_363.3:863,518
+INFO	2021-08-31 16:25:23	FilterSamReads	Written    17,000,000 records.  Elapsed time: 00:01:45s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:25:29	FilterSamReads	Written    18,000,000 records.  Elapsed time: 00:01:51s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:25:34	FilterSamReads	Written    19,000,000 records.  Elapsed time: 00:01:56s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_1594:69,063
+INFO	2021-08-31 16:25:40	FilterSamReads	Written    20,000,000 records.  Elapsed time: 00:02:02s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:25:46	FilterSamReads	Written    21,000,000 records.  Elapsed time: 00:02:08s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:25:51	FilterSamReads	Written    22,000,000 records.  Elapsed time: 00:02:13s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:25:57	FilterSamReads	Written    23,000,000 records.  Elapsed time: 00:02:19s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:26:02	FilterSamReads	Written    24,000,000 records.  Elapsed time: 00:02:25s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:26:08	FilterSamReads	Written    25,000,000 records.  Elapsed time: 00:02:30s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_360:152,884
+INFO	2021-08-31 16:26:14	FilterSamReads	Written    26,000,000 records.  Elapsed time: 00:02:36s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_287.2:107,767
+INFO	2021-08-31 16:26:19	FilterSamReads	Written    27,000,000 records.  Elapsed time: 00:02:41s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_363.3:1,167,981
+INFO	2021-08-31 16:26:25	FilterSamReads	Written    28,000,000 records.  Elapsed time: 00:02:47s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_252:562,020
+INFO	2021-08-31 16:26:30	FilterSamReads	Written    29,000,000 records.  Elapsed time: 00:02:52s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:26:36	FilterSamReads	Written    30,000,000 records.  Elapsed time: 00:02:58s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_433:190,273
+INFO	2021-08-31 16:26:41	FilterSamReads	Written    31,000,000 records.  Elapsed time: 00:03:03s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_284:18,955
+INFO	2021-08-31 16:26:47	FilterSamReads	Written    32,000,000 records.  Elapsed time: 00:03:09s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:26:53	FilterSamReads	Written    33,000,000 records.  Elapsed time: 00:03:15s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_640:614,188
+INFO	2021-08-31 16:26:58	FilterSamReads	Written    34,000,000 records.  Elapsed time: 00:03:20s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_119.2:218,913
+INFO	2021-08-31 16:27:04	FilterSamReads	Written    35,000,000 records.  Elapsed time: 00:03:26s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_89:193,390
+INFO	2021-08-31 16:27:09	FilterSamReads	Written    36,000,000 records.  Elapsed time: 00:03:31s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:27:15	FilterSamReads	Written    37,000,000 records.  Elapsed time: 00:03:37s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_324.1:1,498,827
+INFO	2021-08-31 16:27:20	FilterSamReads	Written    38,000,000 records.  Elapsed time: 00:03:43s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:27:26	FilterSamReads	Written    39,000,000 records.  Elapsed time: 00:03:48s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:27:31	FilterSamReads	Written    40,000,000 records.  Elapsed time: 00:03:54s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_50:1,244,185
+INFO	2021-08-31 16:27:37	FilterSamReads	Written    41,000,000 records.  Elapsed time: 00:03:59s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_388.1:1,196,018
+INFO	2021-08-31 16:27:42	FilterSamReads	Written    42,000,000 records.  Elapsed time: 00:04:05s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:27:48	FilterSamReads	Written    43,000,000 records.  Elapsed time: 00:04:10s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_1269:345,703
+INFO	2021-08-31 16:27:53	FilterSamReads	Written    44,000,000 records.  Elapsed time: 00:04:16s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:27:59	FilterSamReads	Written    45,000,000 records.  Elapsed time: 00:04:21s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_445:121,944
+INFO	2021-08-31 16:28:04	FilterSamReads	Written    46,000,000 records.  Elapsed time: 00:04:27s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_1970:288
+INFO	2021-08-31 16:28:10	FilterSamReads	Written    47,000,000 records.  Elapsed time: 00:04:32s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_17:1,494,099
+INFO	2021-08-31 16:28:16	FilterSamReads	Written    48,000,000 records.  Elapsed time: 00:04:38s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_396:1,177,930
+INFO	2021-08-31 16:28:22	FilterSamReads	Written    49,000,000 records.  Elapsed time: 00:04:44s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_32:26,197
+INFO	2021-08-31 16:28:27	FilterSamReads	Written    50,000,000 records.  Elapsed time: 00:04:49s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:28:33	FilterSamReads	Written    51,000,000 records.  Elapsed time: 00:04:55s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:28:38	FilterSamReads	Written    52,000,000 records.  Elapsed time: 00:05:00s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:28:43	FilterSamReads	Written    53,000,000 records.  Elapsed time: 00:05:06s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_1122.2:68,249
+INFO	2021-08-31 16:28:49	FilterSamReads	Written    54,000,000 records.  Elapsed time: 00:05:11s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_672:450,286
+INFO	2021-08-31 16:28:55	FilterSamReads	Written    55,000,000 records.  Elapsed time: 00:05:17s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_139:1,035,221
+INFO	2021-08-31 16:29:00	FilterSamReads	Written    56,000,000 records.  Elapsed time: 00:05:22s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_1386:180,104
+INFO	2021-08-31 16:29:06	FilterSamReads	Written    57,000,000 records.  Elapsed time: 00:05:28s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_65:1,234,139
+INFO	2021-08-31 16:29:11	FilterSamReads	Written    58,000,000 records.  Elapsed time: 00:05:33s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:29:17	FilterSamReads	Written    59,000,000 records.  Elapsed time: 00:05:39s.  Time for last 1,000,000:    5s.  Last read position: */*
+INFO	2021-08-31 16:29:22	FilterSamReads	Written    60,000,000 records.  Elapsed time: 00:05:44s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_796:347,103
+INFO	2021-08-31 16:29:28	FilterSamReads	Written    61,000,000 records.  Elapsed time: 00:05:50s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_2589:12,518
+INFO	2021-08-31 16:29:38	FilterSamReads	61,529,992 SAMRecords written to AEP2_genome_MF.sam
+[Tue Aug 31 16:29:38 PDT 2021] picard.sam.FilterSamReads done. Elapsed time: 6.18 minutes.
+Runtime.totalMemory()=6892814336
+[bam_sort_core] merging from 9 files...
+[bam_sort_core] merging from 9 files...
+16:45:17.470 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/home/jacazet/Processing/crossMapComp/ATAC/a2m/resources/picard.jar!/com/intel/gkl/native/libgkl_compression.so
+[Tue Aug 31 16:45:17 PDT 2021] MarkDuplicates INPUT=[AEP2.fix.bam] OUTPUT=AEP2_markedDup.bam METRICS_FILE=AEP2_markedDup_metrics.txt ASSUME_SORT_ORDER=coordinate    MAX_SEQUENCES_FOR_DISK_READ_ENDS_MAP=50000 MAX_FILE_HANDLES_FOR_READ_ENDS_MAP=8000 SORTING_COLLECTION_SIZE_RATIO=0.25 TAG_DUPLICATE_SET_MEMBERS=false REMOVE_SEQUENCING_DUPLICATES=false TAGGING_POLICY=DontTag CLEAR_DT=true ADD_PG_TAG_TO_READS=true REMOVE_DUPLICATES=false ASSUME_SORTED=false DUPLICATE_SCORING_STRATEGY=SUM_OF_BASE_QUALITIES PROGRAM_RECORD_ID=MarkDuplicates PROGRAM_GROUP_NAME=MarkDuplicates READ_NAME_REGEX=<optimized capture of last three ':' separated fields as numeric values> OPTICAL_DUPLICATE_PIXEL_DISTANCE=100 MAX_OPTICAL_DUPLICATE_SET_SIZE=300000 VERBOSITY=INFO QUIET=false VALIDATION_STRINGENCY=STRICT COMPRESSION_LEVEL=5 MAX_RECORDS_IN_RAM=500000 CREATE_INDEX=false CREATE_MD5_FILE=false GA4GH_CLIENT_SECRETS=client_secrets.json USE_JDK_DEFLATER=false USE_JDK_INFLATER=false
+[Tue Aug 31 16:45:17 PDT 2021] Executing as jacazet@c2-33 on Linux 5.4.0-80-generic amd64; Java HotSpot(TM) 64-Bit Server VM 1.8.0_20-b26; Deflater: Intel; Inflater: Intel; Picard version: 2.17.8-SNAPSHOT
+INFO	2021-08-31 16:45:17	MarkDuplicates	Start of doWork freeMemory: 995706232; totalMemory: 1011351552; maxMemory: 47722266624
+INFO	2021-08-31 16:45:17	MarkDuplicates	Reading input file and constructing read end information.
+INFO	2021-08-31 16:45:17	MarkDuplicates	Will retain up to 172906763 data points before spilling to disk.
+INFO	2021-08-31 16:45:32	MarkDuplicates	Read     1,000,000 records.  Elapsed time: 00:00:13s.  Time for last 1,000,000:   13s.  Last read position: Sc4wPfr_144.2:303,355
+INFO	2021-08-31 16:45:32	MarkDuplicates	Tracking 4 as yet unmatched pairs. 4 records in RAM.
+INFO	2021-08-31 16:45:37	MarkDuplicates	Read     2,000,000 records.  Elapsed time: 00:00:18s.  Time for last 1,000,000:    4s.  Last read position: Sc4wPfr_1785:82,549
+INFO	2021-08-31 16:45:37	MarkDuplicates	Tracking 70 as yet unmatched pairs. 70 records in RAM.
+INFO	2021-08-31 16:45:41	MarkDuplicates	Read     3,000,000 records.  Elapsed time: 00:00:22s.  Time for last 1,000,000:    4s.  Last read position: Sc4wPfr_62:2,280,336
+INFO	2021-08-31 16:45:41	MarkDuplicates	Tracking 184 as yet unmatched pairs. 184 records in RAM.
+INFO	2021-08-31 16:45:44	MarkDuplicates	Read     4,000,000 records.  Elapsed time: 00:00:25s.  Time for last 1,000,000:    3s.  Last read position: Sc4wPfr_589:1,070,911
+INFO	2021-08-31 16:45:44	MarkDuplicates	Tracking 4 as yet unmatched pairs. 4 records in RAM.
+INFO	2021-08-31 16:45:51	MarkDuplicates	Read     5,000,000 records.  Elapsed time: 00:00:32s.  Time for last 1,000,000:    6s.  Last read position: Sc4wPfr_461:334,666
+INFO	2021-08-31 16:45:51	MarkDuplicates	Tracking 2 as yet unmatched pairs. 2 records in RAM.
+INFO	2021-08-31 16:45:55	MarkDuplicates	Read     6,000,000 records.  Elapsed time: 00:00:36s.  Time for last 1,000,000:    4s.  Last read position: Sc4wPfr_1300:864,430
+INFO	2021-08-31 16:45:55	MarkDuplicates	Tracking 6822 as yet unmatched pairs. 6822 records in RAM.
+INFO	2021-08-31 16:45:59	MarkDuplicates	Read     7,000,000 records.  Elapsed time: 00:00:40s.  Time for last 1,000,000:    3s.  Last read position: Sc4wPfr_351:963,866
+INFO	2021-08-31 16:45:59	MarkDuplicates	Tracking 2 as yet unmatched pairs. 2 records in RAM.
+INFO	2021-08-31 16:46:02	MarkDuplicates	Read     8,000,000 records.  Elapsed time: 00:00:43s.  Time for last 1,000,000:    2s.  Last read position: Sc4wPfr_161.1:143,781
+INFO	2021-08-31 16:46:02	MarkDuplicates	Tracking 6 as yet unmatched pairs. 6 records in RAM.
+INFO	2021-08-31 16:46:10	MarkDuplicates	Read     9,000,000 records.  Elapsed time: 00:00:51s.  Time for last 1,000,000:    8s.  Last read position: Sc4wPfr_574:102,477
+INFO	2021-08-31 16:46:10	MarkDuplicates	Tracking 124 as yet unmatched pairs. 124 records in RAM.
+INFO	2021-08-31 16:46:13	MarkDuplicates	Read    10,000,000 records.  Elapsed time: 00:00:54s.  Time for last 1,000,000:    3s.  Last read position: Sc4wPfr_523:393,921
+INFO	2021-08-31 16:46:13	MarkDuplicates	Tracking 1728 as yet unmatched pairs. 1728 records in RAM.
+INFO	2021-08-31 16:46:16	MarkDuplicates	Read    11,000,000 records.  Elapsed time: 00:00:57s.  Time for last 1,000,000:    3s.  Last read position: Sc4wPfr_224:2,517,852
+INFO	2021-08-31 16:46:16	MarkDuplicates	Tracking 0 as yet unmatched pairs. 0 records in RAM.
+INFO	2021-08-31 16:46:19	MarkDuplicates	Read    12,000,000 records.  Elapsed time: 00:01:00s.  Time for last 1,000,000:    2s.  Last read position: Sc4wPfr_563:723,721
+INFO	2021-08-31 16:46:19	MarkDuplicates	Tracking 18 as yet unmatched pairs. 18 records in RAM.
+INFO	2021-08-31 16:46:22	MarkDuplicates	Read    13,000,000 records.  Elapsed time: 00:01:03s.  Time for last 1,000,000:    2s.  Last read position: Sc4wPfr_135:431,030
+INFO	2021-08-31 16:46:22	MarkDuplicates	Tracking 0 as yet unmatched pairs. 0 records in RAM.
+INFO	2021-08-31 16:46:28	MarkDuplicates	Read    14,000,000 records.  Elapsed time: 00:01:09s.  Time for last 1,000,000:    5s.  Last read position: Sc4wPfr_106:1,170,169
+INFO	2021-08-31 16:46:28	MarkDuplicates	Tracking 4 as yet unmatched pairs. 4 records in RAM.
+INFO	2021-08-31 16:46:31	MarkDuplicates	Read    15,000,000 records.  Elapsed time: 00:01:12s.  Time for last 1,000,000:    3s.  Last read position: Sc4wPfr_57.2:82,743
+INFO	2021-08-31 16:46:31	MarkDuplicates	Tracking 64 as yet unmatched pairs. 64 records in RAM.
+INFO	2021-08-31 16:46:34	MarkDuplicates	Read    16,000,000 records.  Elapsed time: 00:01:15s.  Time for last 1,000,000:    2s.  Last read position: Sc4wPfr_44:458,743
+INFO	2021-08-31 16:46:34	MarkDuplicates	Tracking 6 as yet unmatched pairs. 6 records in RAM.
+INFO	2021-08-31 16:46:42	MarkDuplicates	Read    17,000,000 records.  Elapsed time: 00:01:23s.  Time for last 1,000,000:    8s.  Last read position: Sc4wPfr_199:1,078,959
+INFO	2021-08-31 16:46:42	MarkDuplicates	Tracking 2 as yet unmatched pairs. 2 records in RAM.
+INFO	2021-08-31 16:46:45	MarkDuplicates	Read    18,000,000 records.  Elapsed time: 00:01:26s.  Time for last 1,000,000:    2s.  Last read position: Sc4wPfr_29:1,139,066
+INFO	2021-08-31 16:46:45	MarkDuplicates	Tracking 2 as yet unmatched pairs. 2 records in RAM.
+INFO	2021-08-31 16:46:48	MarkDuplicates	Read    19,000,000 records.  Elapsed time: 00:01:29s.  Time for last 1,000,000:    3s.  Last read position: Sc4wPfr_338.1:967,962
+INFO	2021-08-31 16:46:48	MarkDuplicates	Tracking 116 as yet unmatched pairs. 116 records in RAM.
+INFO	2021-08-31 16:46:52	MarkDuplicates	Read    20,000,000 records.  Elapsed time: 00:01:33s.  Time for last 1,000,000:    3s.  Last read position: Sc4wPfr_224.1:1,051,305
+INFO	2021-08-31 16:46:52	MarkDuplicates	Tracking 14 as yet unmatched pairs. 14 records in RAM.
+INFO	2021-08-31 16:46:53	MarkDuplicates	Read 20241814 records. 0 pairs never matched.
+INFO	2021-08-31 16:47:01	MarkDuplicates	After buildSortedReadEndLists freeMemory: 15618110416; totalMemory: 21115699200; maxMemory: 47722266624
+INFO	2021-08-31 16:47:01	MarkDuplicates	Will retain up to 1491320832 duplicate indices before spilling to disk.
+INFO	2021-08-31 16:47:02	MarkDuplicates	Traversing read pair information and detecting duplicates.
+INFO	2021-08-31 16:47:03	OpticalDuplicateFinder	Large duplicate set. size = 1353
+INFO	2021-08-31 16:47:03	OpticalDuplicateFinder	compared         1,000 ReadEnds to others.  Elapsed time: 00:00:00s.  Time for last 1,000:    0s.  Last read position: 0:23,312
+INFO	2021-08-31 16:47:03	OpticalDuplicateFinder	Large duplicate set. size = 1415
+INFO	2021-08-31 16:47:03	OpticalDuplicateFinder	compared         1,000 ReadEnds to others.  Elapsed time: 00:00:00s.  Time for last 1,000:    0s.  Last read position: 0:23,165
+INFO	2021-08-31 16:47:03	OpticalDuplicateFinder	Large duplicate set. size = 1116
+INFO	2021-08-31 16:47:03	OpticalDuplicateFinder	compared         1,000 ReadEnds to others.  Elapsed time: 00:00:00s.  Time for last 1,000:    0s.  Last read position: 0:22,068
+INFO	2021-08-31 16:47:04	OpticalDuplicateFinder	Large duplicate set. size = 1081
+INFO	2021-08-31 16:47:04	OpticalDuplicateFinder	compared         1,000 ReadEnds to others.  Elapsed time: 00:00:00s.  Time for last 1,000:    0s.  Last read position: 0:25,312
+INFO	2021-08-31 16:47:04	OpticalDuplicateFinder	Large duplicate set. size = 1027
+INFO	2021-08-31 16:47:04	OpticalDuplicateFinder	compared         1,000 ReadEnds to others.  Elapsed time: 00:00:00s.  Time for last 1,000:    0s.  Last read position: 0:24,412
+INFO	2021-08-31 16:47:04	OpticalDuplicateFinder	Large duplicate set. size = 1445
+INFO	2021-08-31 16:47:04	OpticalDuplicateFinder	compared         1,000 ReadEnds to others.  Elapsed time: 00:00:00s.  Time for last 1,000:    0s.  Last read position: 0:12,344
+INFO	2021-08-31 16:47:04	OpticalDuplicateFinder	Large duplicate set. size = 1479
+INFO	2021-08-31 16:47:04	OpticalDuplicateFinder	compared         1,000 ReadEnds to others.  Elapsed time: 00:00:00s.  Time for last 1,000:    0s.  Last read position: 0:24,448
+INFO	2021-08-31 16:47:04	MarkDuplicates	Traversing fragment information and detecting duplicates.
+INFO	2021-08-31 16:47:06	MarkDuplicates	Sorting list of duplicate records.
+INFO	2021-08-31 16:47:07	MarkDuplicates	After generateDuplicateIndexes freeMemory: 8888988352; totalMemory: 21115699200; maxMemory: 47722266624
+INFO	2021-08-31 16:47:07	MarkDuplicates	Marking 4047352 records as duplicates.
+INFO	2021-08-31 16:47:07	MarkDuplicates	Found 1661 optical duplicate clusters.
+INFO	2021-08-31 16:47:07	MarkDuplicates	Reads are assumed to be ordered by: coordinate
+INFO	2021-08-31 16:48:36	MarkDuplicates	Written    10,000,000 records.  Elapsed time: 00:01:28s.  Time for last 10,000,000:   88s.  Last read position: Sc4wPfr_523:393,921
+INFO	2021-08-31 16:49:56	MarkDuplicates	Written    20,000,000 records.  Elapsed time: 00:02:48s.  Time for last 10,000,000:   80s.  Last read position: Sc4wPfr_224.1:1,051,305
+INFO	2021-08-31 16:49:58	MarkDuplicates	Before output close freeMemory: 34585714032; totalMemory: 34903949312; maxMemory: 47722266624
+INFO	2021-08-31 16:49:59	MarkDuplicates	After output close freeMemory: 34077154672; totalMemory: 34395389952; maxMemory: 47722266624
+[Tue Aug 31 16:49:59 PDT 2021] picard.sam.markduplicates.MarkDuplicates done. Elapsed time: 4.71 minutes.
+Runtime.totalMemory()=34395389952

@@ -1,0 +1,5 @@
+options(digits=10)
+args <- commandArgs(trailingOnly=TRUE)
+subSampleValue <-sample(1:9999,1)
+subSampleValue <- subSampleValue + (1/as.numeric(args[1]))
+cat(subSampleValue)

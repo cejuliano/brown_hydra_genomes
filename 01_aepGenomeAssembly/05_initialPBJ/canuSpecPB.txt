@@ -1,0 +1,5 @@
+useGrid=false
+corMemory=50
+corThreads=8
+minInputCoverage=4
+stopOnLowCoverage=4

@@ -1,0 +1,13 @@
+corMemory=50
+corThreads=6
+ovlMemory=50
+ovlThreads=6
+mhapMemory=50
+mhapThreads=6
+mmapMemory=50
+mmapThreads=6
+ovsMemory=50
+ovsThreads=6
+ovbMemory=50
+ovbThreads=6
+gridOptions="-p bigmemh -t 60-0" 

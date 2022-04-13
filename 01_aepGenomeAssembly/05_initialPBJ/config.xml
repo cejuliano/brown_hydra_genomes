@@ -1,0 +1,17 @@
+<jellyProtocol>
+	<reference>/home/jacazet/reference/aepAssembly/resources/references/arcs/arcs.fasta</reference>
+	<outputDir>/home/jacazet/reference/aepAssembly/05_pbj/pbOut</outputDir>
+    <blasr>-minMatch 8 -minPctIdentity 70 -bestn 1 -nCandidates 20 -maxScore -500 -nproc 60 -noSplitSubreads</blasr>
+    <input baseDir="/home/jacazet/reference/aepAssembly/resources/reads/correctedLR/">
+            <job>NPaa.fasta</job>
+            <job>NPab.fasta</job>
+            <job>NPac.fasta</job>
+            <job>NPad.fasta</job>
+            <job>NPae.fasta</job>
+            <job>NPaf.fasta</job>
+            <job>NPag.fasta</job>
+            <job>NPah.fasta</job>
+	    <job>NPai.fasta</job>
+	    <job>aepPB.correctedReads.fasta</job>
+    </input>
+</jellyProtocol>

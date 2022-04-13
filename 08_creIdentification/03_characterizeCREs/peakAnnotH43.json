@@ -1,0 +1,13 @@
+{
+"queries":[
+    {"distance": [100000, 100000], "feature": ["transcript"], "feature_anchor": ["start"], "name": "query_1", "relative_location": ["Downstream", "Upstream", "OverlapStart", "FeatureInsidePeak", "PeakInsideFeature", "OverlapEnd"], "strand": "ignore"}
+          ],
+"show_attributes": ["gene_id"],
+"priority": "False",
+"gtf": "HVAEP1.GeneModels.gtf",
+"bed": "consensusH43.bed",
+"prefix": "H43",
+"outdir": "uropaOut",
+"threads": "1",
+"output_by_query": "False"
+}

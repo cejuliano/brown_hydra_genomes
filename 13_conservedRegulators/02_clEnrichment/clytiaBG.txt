@@ -1,0 +1,7 @@
+# 0-order Markov frequencies from file ../../clytiaG.fa
+# seqs: 1396    min: 607    max: 4598201    avg: 301560.7    sum: 420978673    alph: DNA
+# order 0
+A 3.227e-01
+C 1.773e-01
+G 1.773e-01
+T 3.227e-01

@@ -1,0 +1,42 @@
+"","source","target","value","IDsource","IDtarget"
+"1","Exumbrella Epidermis","Ec_BasalDisk",0.173758865248227,0,23
+"2","Manubrium Epidermis","Ec_BodyCol/SC",0.0517768780926676,4,30
+"3","Striated Muscle of Velum","Ec_Head",0.0568100358422939,1,25
+"4","Exumbrella Epidermis","Ec_Peduncle",0.111263318112633,0,24
+"5","GastroDigestive-B","En_BodyCol/SC",0.0848639455782313,2,26
+"6","Tentacle Bulb Distal Gastroderm","En_Foot",0.0892670157068063,3,28
+"7","Tentacle Bulb Distal Gastroderm","En_Tentacle",0.183778966131907,3,27
+"8","Early Nematoblasts","I_DesmoNB",0.0573380867498515,14,43
+"9","Late Nematoblasts","I_DesmoNB",0.079144385026738,17,43
+"10","Nematocyte Precursors","I_DesmoNB",0.110873440285205,16,43
+"11","Terminal Differentiating Nematocytes","I_DesmoNC",0.101054852320675,18,44
+"12","i-Cells","I_EarlyNem",0.22669220945083,13,39
+"13","neuro_2","I_Ec1N",0.0617424242424242,8,31
+"14","neuro_5","I_Ec1N",0.0681818181818182,5,31
+"15","neuro_6","I_Ec1N",0.0556818181818182,6,31
+"16","neuro_8","I_Ec1N",0.0556818181818182,7,31
+"17","neuro_2","I_Ec3N",0.0666666666666667,8,33
+"18","neuro_3","I_Ec3N",0.0878306878306878,10,33
+"19","neuro_4","I_Ec3N",0.0849206349206349,9,33
+"20","neuro_2","I_Ec4N",0.0557575757575758,8,32
+"21","neuro_3","I_En1N",0.103286384976526,10,34
+"22","neuro_4","I_En1N",0.111737089201878,9,34
+"23","neuro_9","I_En2N",0.0793510324483776,11,36
+"24","neuro_3","I_En3N",0.072108843537415,10,35
+"25","neuro_9","I_En3N",0.0959183673469388,11,35
+"26","Medium Oocytes","I_FemGC",0.103373819163293,20,47
+"27","i-Cells","I_GlProgen",0.361044176706827,13,38
+"28","Gland Cells-A","I_GranGl",0.134732510288066,21,48
+"29","i-Cells","I_ISC",0.218681839734471,13,40
+"30","Early Nematoblasts","I_IsoNB",0.1357910906298,14,42
+"31","Mid Nematoblasts","I_IsoNB",0.0668202764976959,15,42
+"32","Nematocyte Precursors","I_IsoNB",0.0609831029185868,16,42
+"33","Mature Nematocytes","I_IsoNC",0.0585301837270341,19,45
+"34","Terminal Differentiating Nematocytes","I_IsoNC",0.109448818897638,18,45
+"35","Manubrium Epidermis","I_MaleGC",0.0746913580246914,4,29
+"36","i-Cells","I_Neuro",0.0900476190476191,13,37
+"37","neuro_0","I_Neuro",0.103428571428571,12,37
+"38","Early Nematoblasts","I_StenoNB",0.155962059620596,14,41
+"39","Mature Nematocytes","I_StenoNC",0.0698795180722891,19,46
+"40","Terminal Differentiating Nematocytes","I_StenoNC",0.0781124497991968,18,46
+"41","Gland Cells-D","I_ZymoGl",0.0808009422850412,22,49

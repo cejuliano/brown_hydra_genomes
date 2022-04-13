@@ -1,0 +1,6 @@
+(((virid:0.15735,((aep:0.02449,105:0.03419):0.06057,olig:0.08281):0.16061):0.4047,clytia:0.64829):0.84056);
+*aep seqs/aep.fa
+105 seqs/105.fa
+virid seqs/virid.fa
+olig seqs/olig.fa
+clytia seqs/clytia.fa

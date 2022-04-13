@@ -1,0 +1,7 @@
+# 0-order Markov frequencies from file ../../aep.final.genome.fa
+# seqs: 15    min: 41470725    max: 85887368    avg: 60062337.0    sum: 900935055    alph: DNA
+# order 0
+A 3.611e-01
+C 1.389e-01
+G 1.389e-01
+T 3.611e-01

@@ -1,0 +1,59 @@
+==================================================
+file name: fullOligMask             
+sequences:         16314
+total length: 1274417049 bp  (1274416349 bp excl N/X-runs)
+GC level:        Unknown %
+bases masked:  720905829 bp ( 56.57 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements       479876    194203444 bp   15.24 %
+   SINEs:            47590      4952222 bp    0.39 %
+   Penelope          84031     25882244 bp    2.03 %
+   LINEs:           398519    170803522 bp   13.40 %
+    CRE/SLACS          902       457155 bp    0.04 %
+     L2/CR1/Rex     239618    121557797 bp    9.54 %
+     R1/LOA/Jockey     524        42132 bp    0.00 %
+     R2/R4/NeSL       2490       382548 bp    0.03 %
+     RTE/Bov-B       47755     10107949 bp    0.79 %
+     L1/CIN4          2209       121333 bp    0.01 %
+   LTR elements:     33767     18447700 bp    1.45 %
+     BEL/Pao          3908      3891312 bp    0.31 %
+     Ty1/Copia        3834       585175 bp    0.05 %
+     Gypsy/DIRS1     21157     13524719 bp    1.06 %
+       Retroviral     3265       157584 bp    0.01 %
+
+DNA transposons     1839991    387695945 bp   30.42 %
+   hobo-Activator   655990    147523867 bp   11.58 %
+   Tc1-IS630-Pogo   156424     37217650 bp    2.92 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac           6629      2420433 bp    0.19 %
+   Tourist/Harbinger  9194      2005113 bp    0.16 %
+   Other (Mirage,   128684     26086097 bp    2.05 %
+    P-element, Transib)
+
+Rolling-circles      37426      7814077 bp    0.61 %
+
+Unclassified:       259396     55006308 bp    4.32 %
+
+Total interspersed repeats:   636905697 bp   49.98 %
+
+
+Small RNA:           45462      4830468 bp    0.38 %
+
+Satellites:           3808       745656 bp    0.06 %
+Simple repeats:     832876     68080392 bp    5.34 %
+Low complexity:     137832      7101564 bp    0.56 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be eumetazoa     
+RepeatMasker Combined Database: Dfam_Consensus-20170127, RepBase-20181026
+        
+run with rmblastn version 2.2.27+
+

@@ -1,0 +1,941 @@
+>scaffold-70:::fragment_1 1 17981299
+>scaffold-70:::fragment_2:::debris 2 17015
+>scaffold-70:::fragment_3 3 5438348
+>scaffold-51:::fragment_1 4 22877712
+>scaffold-51:::fragment_2:::debris 5 2452
+>scaffold-2 6 19523570
+>scaffold-37:::fragment_1:::debris 7 6704
+>scaffold-37:::fragment_2 8 294000
+>scaffold-37:::fragment_3:::debris 9 11000
+>scaffold-37:::fragment_4 10 17012617
+>scaffold-18:::fragment_1 11 15779010
+>scaffold-18:::fragment_2:::debris 12 3547
+>scaffold-52:::fragment_1 13 15760571
+>scaffold-52:::fragment_2:::debris 14 9502
+>scaffold-112 15 15000247
+>scaffold-20:::fragment_1:::debris 16 2260
+>scaffold-20:::fragment_2 17 14530640
+>scaffold-39 18 13965284
+>scaffold-29 19 13617033
+>scaffold-78 20 13577757
+>scaffold-12 21 12685333
+>scaffold-184:::fragment_1:::debris 22 26782
+>scaffold-184:::fragment_2 23 12511149
+>scaffold-89:::fragment_1 24 26813
+>scaffold-89:::fragment_2:::debris 25 25000
+>scaffold-89:::fragment_3 26 250000
+>scaffold-89:::fragment_4:::debris 27 25000
+>scaffold-89:::fragment_5 28 25000
+>scaffold-89:::fragment_6:::debris 29 25000
+>scaffold-89:::fragment_7 30 300000
+>scaffold-89:::fragment_8:::debris 31 25000
+>scaffold-89:::fragment_9 32 25000
+>scaffold-89:::fragment_10:::debris 33 25000
+>scaffold-89:::fragment_11 34 250000
+>scaffold-89:::fragment_12:::debris 35 50000
+>scaffold-89:::fragment_13 36 11331169
+>scaffold-89:::fragment_14:::debris 37 8806
+>scaffold-89:::fragment_15 38 35000
+>scaffold-89:::fragment_16:::debris 39 66427
+>scaffold-25 40 11187342
+>scaffold-336:::fragment_1:::debris 41 12525
+>scaffold-336:::fragment_2 42 10896289
+>scaffold-437 43 10630189
+>scaffold-77:::fragment_1:::debris 44 3920
+>scaffold-77:::fragment_2 45 10116268
+>scaffold-74 46 9581147
+>scaffold-161:::fragment_1:::debris 47 8850
+>scaffold-161:::fragment_2 48 9238094
+>scaffold-161:::fragment_3:::debris 49 18000
+>scaffold-161:::fragment_4 50 299065
+>scaffold-137:::fragment_1 51 9014073
+>scaffold-137:::fragment_2:::debris 52 1000
+>scaffold-137:::fragment_3 53 511320
+>scaffold-137:::fragment_4:::debris 54 21086
+>scaffold-64:::fragment_1 55 7458775
+>scaffold-64:::fragment_2:::debris 56 18000
+>scaffold-64:::fragment_3 57 496000
+>scaffold-64:::fragment_4:::debris 58 1000
+>scaffold-64:::fragment_5 59 1219327
+>scaffold-4:::fragment_1:::debris 60 1381
+>scaffold-4:::fragment_2 61 3798000
+>scaffold-4:::fragment_3:::debris 62 6740
+>scaffold-4:::fragment_4 63 5287755
+>scaffold-417:::fragment_1:::debris 64 11752
+>scaffold-417:::fragment_2 65 8987514
+>scaffold-412 66 8186903
+>scaffold-66 67 8116594
+>scaffold-195 68 8065047
+>scaffold-120:::fragment_1:::debris 69 2336
+>scaffold-120:::fragment_2 70 7927146
+>scaffold-87:::fragment_1 71 7809627
+>scaffold-87:::fragment_2:::debris 72 5119
+>scaffold-434 73 7522489
+>scaffold-42:::fragment_1 74 7463398
+>scaffold-42:::fragment_2:::debris 75 6239
+>scaffold-45 76 7449379
+>scaffold-19:::fragment_1:::debris 77 2121
+>scaffold-19:::fragment_2 78 672779
+>scaffold-19:::fragment_3:::debris 79 16221
+>scaffold-19:::fragment_4 80 6720392
+>scaffold-23 81 7309662
+>scaffold-7 82 7245012
+>scaffold-141 83 7216216
+>scaffold-63:::fragment_1:::debris 84 12921
+>scaffold-63:::fragment_2 85 7077708
+>scaffold-159 86 6883894
+>scaffold-11 87 6838271
+>scaffold-28:::fragment_1:::debris 88 2336
+>scaffold-28:::fragment_2 89 6685660
+>scaffold-207:::fragment_1:::debris 90 3802
+>scaffold-207:::fragment_2 91 220000
+>scaffold-207:::fragment_3:::debris 92 4000
+>scaffold-207:::fragment_4 93 6231372
+>scaffold-47 94 6454240
+>scaffold-41 95 6244338
+>scaffold-98 96 5846622
+>scaffold-185:::fragment_1 97 5822599
+>scaffold-185:::fragment_2:::debris 98 2479
+>scaffold-26 99 5780948
+>scaffold-69 100 5715151
+>scaffold-129 101 5677676
+>scaffold-73:::fragment_1:::debris 102 8693
+>scaffold-73:::fragment_2 103 5640184
+>scaffold-124 104 5626703
+>scaffold-164:::fragment_1:::debris 105 4718
+>scaffold-164:::fragment_2 106 5536198
+>scaffold-252:::fragment_1 107 5511046
+>scaffold-252:::fragment_2:::debris 108 27682
+>scaffold-67:::fragment_1:::debris 109 3044
+>scaffold-67:::fragment_2 110 5474569
+>scaffold-40:::fragment_1 111 5257948
+>scaffold-40:::fragment_2:::debris 112 18296
+>scaffold-258 113 5198366
+>scaffold-103:::fragment_1 114 5181806
+>scaffold-103:::fragment_2:::debris 115 9791
+>scaffold-410:::fragment_1:::debris 116 50623
+>scaffold-410:::fragment_2 117 5122187
+>scaffold-109:::fragment_1 118 5049789
+>scaffold-109:::fragment_2:::debris 119 9947
+>scaffold-166 120 4987120
+>scaffold-16 121 4961880
+>scaffold-450 122 4889179
+>scaffold-75 123 4829486
+>scaffold-114 124 4791190
+>scaffold-274 125 4750254
+>scaffold-302:::fragment_1:::debris 126 14652
+>scaffold-302:::fragment_2 127 4574835
+>scaffold-123 128 4583572
+>scaffold-173:::fragment_1 129 4532780
+>scaffold-173:::fragment_2:::debris 130 1300
+>scaffold-9:::fragment_1 131 4512868
+>scaffold-9:::fragment_2:::debris 132 2214
+>scaffold-15 133 4486310
+>scaffold-76 134 4378500
+>scaffold-1:::fragment_1 135 4342898
+>scaffold-1:::fragment_2:::debris 136 7951
+>scaffold-150:::fragment_1 137 4184443
+>scaffold-150:::fragment_2:::debris 138 2783
+>scaffold-24 139 4124927
+>scaffold-407 140 4112582
+>scaffold-293 141 4098355
+>scaffold-5:::fragment_1:::debris 142 31375
+>scaffold-5:::fragment_2 143 3903714
+>scaffold-38:::fragment_1 144 3715584
+>scaffold-38:::fragment_2:::debris 145 2879
+>scaffold-389 146 3695399
+>scaffold-3 147 3674085
+>scaffold-327 148 3666882
+>scaffold-6 149 3503292
+>scaffold-122 150 3435872
+>scaffold-22 151 3354219
+>scaffold-187 152 3293364
+>scaffold-413:::fragment_1 153 3272033
+>scaffold-413:::fragment_2:::debris 154 3548
+>scaffold-322 155 3274881
+>scaffold-306 156 3259079
+>scaffold-8 157 3138603
+>scaffold-113:::fragment_1:::debris 158 3596
+>scaffold-113:::fragment_2 159 3073954
+>scaffold-190 160 2999552
+>scaffold-301 161 2944285
+>scaffold-10 162 2871057
+>scaffold-283 163 2783145
+>scaffold-321 164 2773000
+>scaffold-366 165 2761340
+>scaffold-21:::fragment_1 166 2717341
+>scaffold-21:::fragment_2:::debris 167 28676
+>scaffold-44 168 2696707
+>scaffold-94:::fragment_1 169 2680178
+>scaffold-94:::fragment_2:::debris 170 6508
+>scaffold-432 171 2660373
+>scaffold-48 172 2625906
+>scaffold-59 173 2596805
+>scaffold-85 174 2535179
+>scaffold-56 175 2506411
+>scaffold-409 176 2454434
+>scaffold-61:::fragment_1:::debris 177 9889
+>scaffold-61:::fragment_2 178 2419332
+>scaffold-33:::fragment_1 179 2408682
+>scaffold-33:::fragment_2:::debris 180 9318
+>scaffold-374 181 2376144
+>scaffold-86:::fragment_1 182 2331756
+>scaffold-86:::fragment_2:::debris 183 1711
+>scaffold-108 184 2328780
+>scaffold-179 185 2297312
+>scaffold-14 186 2248939
+>scaffold-35 187 2239429
+>scaffold-79 188 2232070
+>scaffold-72 189 2217412
+>scaffold-58 190 2215013
+>scaffold-13 191 2135667
+>scaffold-99:::fragment_1 192 1699125
+>scaffold-99:::fragment_2:::debris 193 19000
+>scaffold-99:::fragment_3 194 383000
+>scaffold-99:::fragment_4:::debris 195 3674
+>scaffold-142 196 2078909
+>scaffold-317 197 2070133
+>scaffold-383 198 2063691
+>scaffold-182:::fragment_1 199 2012810
+>scaffold-182:::fragment_2:::debris 200 1931
+>scaffold-107:::fragment_1:::debris 201 3269
+>scaffold-107:::fragment_2 202 1963
+>scaffold-107:::fragment_3:::debris 203 1000
+>scaffold-107:::fragment_4 204 1992564
+>scaffold-174 205 1990717
+>scaffold-117 206 1989837
+>scaffold-147 207 1969718
+>scaffold-444 208 1948531
+>scaffold-239:::fragment_1 209 1908235
+>scaffold-239:::fragment_2:::debris 210 2308
+>scaffold-32 211 1891065
+>scaffold-160:::fragment_1:::debris 212 7851
+>scaffold-160:::fragment_2 213 1882998
+>scaffold-43 214 1846436
+>scaffold-80 215 1816928
+>scaffold-57 216 1813056
+>scaffold-30 217 1811331
+>scaffold-130 218 1804453
+>scaffold-91:::fragment_1:::debris 219 6021
+>scaffold-91:::fragment_2 220 1774548
+>scaffold-420 221 1766109
+>scaffold-192 222 1758097
+>scaffold-242:::fragment_1 223 1741207
+>scaffold-242:::fragment_2:::debris 224 1602
+>scaffold-180:::fragment_1:::debris 225 4545
+>scaffold-180:::fragment_2 226 1727667
+>scaffold-416:::fragment_1:::debris 227 10157
+>scaffold-416:::fragment_2 228 1669699
+>scaffold-158:::fragment_1 229 243676
+>scaffold-158:::fragment_2:::debris 230 125000
+>scaffold-158:::fragment_3 231 1261033
+>scaffold-81 232 1626949
+>scaffold-339 233 1577441
+>scaffold-188:::fragment_1:::debris 234 1332
+>scaffold-188:::fragment_2 235 1560000
+>scaffold-188:::fragment_3:::debris 236 1829
+>scaffold-31 237 1490827
+>scaffold-55 238 1489285
+>scaffold-153:::fragment_1:::debris 239 11085
+>scaffold-153:::fragment_2 240 1470933
+>scaffold-453 241 1406665
+>scaffold-357 242 1400689
+>scaffold-82 243 1397517
+>scaffold-54 244 1396609
+>scaffold-110 245 1391719
+>scaffold-248:::fragment_1 246 129428
+>scaffold-248:::fragment_2:::debris 247 31921
+>scaffold-248:::fragment_3 248 25000
+>scaffold-248:::fragment_4:::debris 249 2000
+>scaffold-248:::fragment_5 250 46723
+>scaffold-248:::fragment_6:::debris 251 26064
+>scaffold-248:::fragment_7 252 1105936
+>scaffold-248:::fragment_8:::debris 253 12079
+>scaffold-106 254 1378011
+>scaffold-144 255 1377449
+>scaffold-256:::fragment_1:::debris 256 5701
+>scaffold-256:::fragment_2 257 1369396
+>scaffold-143:::fragment_1:::debris 258 14319
+>scaffold-143:::fragment_2 259 1360623
+>scaffold-209:::fragment_1:::debris 260 1256
+>scaffold-209:::fragment_2 261 1370297
+>scaffold-337 262 1335900
+>scaffold-34 263 1333448
+>scaffold-65 264 1287315
+>scaffold-338:::fragment_1 265 1276685
+>scaffold-338:::fragment_2:::debris 266 4120
+>scaffold-151:::fragment_1:::debris 267 3788
+>scaffold-151:::fragment_2 268 1258914
+>scaffold-151:::fragment_3:::debris 269 10533
+>scaffold-276 270 1240431
+>scaffold-105:::fragment_1 271 180606
+>scaffold-105:::fragment_2:::debris 272 50000
+>scaffold-105:::fragment_3 273 25000
+>scaffold-105:::fragment_4:::debris 274 25000
+>scaffold-105:::fragment_5 275 394000
+>scaffold-105:::fragment_6:::debris 276 1000
+>scaffold-105:::fragment_7 277 165000
+>scaffold-105:::fragment_8:::debris 278 5000
+>scaffold-105:::fragment_9 279 367878
+>scaffold-105:::fragment_10:::debris 280 6920
+>scaffold-358:::fragment_1:::debris 281 52977
+>scaffold-358:::fragment_2 282 1166973
+>scaffold-244 283 1210018
+>scaffold-71 284 1179548
+>scaffold-154:::fragment_1 285 1113541
+>scaffold-154:::fragment_2:::debris 286 2000
+>scaffold-154:::fragment_3 287 60502
+>scaffold-145 288 1166665
+>scaffold-88:::fragment_1 289 1150602
+>scaffold-88:::fragment_2:::debris 290 2774
+>scaffold-101:::fragment_1:::debris 291 5920
+>scaffold-101:::fragment_2 292 1112295
+>scaffold-349:::fragment_1:::debris 293 8444
+>scaffold-349:::fragment_2 294 1085563
+>scaffold-165 295 1085460
+>scaffold-191 296 1056634
+>scaffold-193:::fragment_1:::debris 297 4553
+>scaffold-193:::fragment_2 298 1044397
+>scaffold-167 299 1046431
+>scaffold-92 300 1040539
+>scaffold-162:::fragment_1:::debris 301 10879
+>scaffold-162:::fragment_2 302 893000
+>scaffold-162:::fragment_3:::debris 303 6000
+>scaffold-162:::fragment_4 304 108998
+>scaffold-49:::fragment_1 305 686033
+>scaffold-49:::fragment_2:::debris 306 5041
+>scaffold-49:::fragment_3 307 319000
+>scaffold-49:::fragment_4:::debris 308 1121
+>scaffold-149 309 1009740
+>scaffold-127 310 998360
+>scaffold-404:::fragment_1:::debris 311 9217
+>scaffold-404:::fragment_2 312 973406
+>scaffold-235 313 974369
+>scaffold-131 314 952783
+>scaffold-429 315 949992
+>scaffold-27 316 948742
+>scaffold-254:::fragment_1:::debris 317 1352
+>scaffold-254:::fragment_2 318 945358
+>scaffold-46:::fragment_1 319 931696
+>scaffold-46:::fragment_2:::debris 320 6915
+>scaffold-323:::fragment_1 321 902437
+>scaffold-323:::fragment_2:::debris 322 23053
+>scaffold-93:::fragment_1 323 917329
+>scaffold-93:::fragment_2:::debris 324 2690
+>scaffold-221 325 918775
+>scaffold-111 326 912303
+>scaffold-189:::fragment_1 327 414394
+>scaffold-189:::fragment_2:::debris 328 4000
+>scaffold-189:::fragment_3 329 490332
+>scaffold-189:::fragment_4:::debris 330 1034
+>scaffold-386:::fragment_1 331 900652
+>scaffold-386:::fragment_2:::debris 332 8225
+>scaffold-102:::fragment_1 333 899031
+>scaffold-102:::fragment_2:::debris 334 5962
+>scaffold-297 335 892199
+>scaffold-146 336 886149
+>scaffold-134:::fragment_1:::debris 337 10228
+>scaffold-134:::fragment_2 338 875916
+>scaffold-397 339 883653
+>scaffold-156:::fragment_1 340 855107
+>scaffold-156:::fragment_2:::debris 341 4570
+>scaffold-157 342 845162
+>scaffold-60 343 844755
+>scaffold-250:::fragment_1:::debris 344 3186
+>scaffold-250:::fragment_2 345 836456
+>scaffold-423 346 839103
+>scaffold-128 347 826335
+>scaffold-390 348 818454
+>scaffold-208 349 815746
+>scaffold-126 350 787411
+>scaffold-378 351 785694
+>scaffold-90:::fragment_1 352 161537
+>scaffold-90:::fragment_2:::debris 353 41703
+>scaffold-90:::fragment_3 354 582320
+>scaffold-83 355 775417
+>scaffold-431 356 773747
+>scaffold-219 357 771093
+>scaffold-36 358 755520
+>scaffold-53:::fragment_1:::debris 359 2507
+>scaffold-53:::fragment_2 360 746314
+>scaffold-136 361 737864
+>scaffold-341 362 734505
+>scaffold-350:::fragment_1:::debris 363 5823
+>scaffold-350:::fragment_2 364 718279
+>scaffold-96:::fragment_1 365 719777
+>scaffold-96:::fragment_2:::debris 366 3955
+>scaffold-328 367 691378
+>scaffold-215 368 671674
+>scaffold-333:::fragment_1:::debris 369 1297
+>scaffold-333:::fragment_2 370 660209
+>scaffold-267 371 646742
+>scaffold-213 372 640706
+>scaffold-402:::fragment_1:::debris 373 9559
+>scaffold-402:::fragment_2 374 628776
+>scaffold-62:::fragment_1 375 617989
+>scaffold-62:::fragment_2:::debris 376 6540
+>scaffold-411 377 619803
+>scaffold-232 378 609670
+>scaffold-68 379 598176
+>scaffold-97:::fragment_1:::debris 380 4110
+>scaffold-97:::fragment_2 381 587312
+>scaffold-169 382 576999
+>scaffold-104:::fragment_1:::debris 383 2246
+>scaffold-104:::fragment_2 384 568450
+>scaffold-100:::fragment_1:::debris 385 8400
+>scaffold-100:::fragment_2 386 29000
+>scaffold-100:::fragment_3:::debris 387 53000
+>scaffold-100:::fragment_4 388 471398
+>scaffold-177:::fragment_1 389 557126
+>scaffold-177:::fragment_2:::debris 390 3320
+>scaffold-382 391 557691
+>scaffold-119 392 555122
+>scaffold-233 393 540335
+>scaffold-206 394 525106
+>scaffold-359 395 516916
+>scaffold-194:::fragment_1:::debris 396 11307
+>scaffold-194:::fragment_2 397 501742
+>scaffold-194:::fragment_3:::debris 398 2038
+>scaffold-115 399 513180
+>scaffold-125 400 499703
+>scaffold-84:::fragment_1:::debris 401 3692
+>scaffold-84:::fragment_2 402 491529
+>scaffold-345 403 492672
+>scaffold-362 404 478167
+>scaffold-202:::fragment_1 405 469318
+>scaffold-202:::fragment_2:::debris 406 1301
+>scaffold-425 407 470276
+>scaffold-261:::fragment_1 408 454762
+>scaffold-261:::fragment_2:::debris 409 1633
+>scaffold-268 410 454742
+>scaffold-234:::fragment_1 411 449687
+>scaffold-234:::fragment_2:::debris 412 1417
+>scaffold-447 413 450776
+>scaffold-347:::fragment_1 414 167766
+>scaffold-347:::fragment_2:::debris 415 1000
+>scaffold-347:::fragment_3 416 271540
+>scaffold-181 417 439193
+>scaffold-152 418 430544
+>scaffold-265 419 426009
+>scaffold-442:::fragment_1 420 404969
+>scaffold-442:::fragment_2:::debris 421 10382
+>scaffold-178 422 414196
+>scaffold-163:::fragment_1:::debris 423 6430
+>scaffold-163:::fragment_2 424 407088
+>scaffold-426 425 411366
+>scaffold-369:::fragment_1:::debris 426 1404
+>scaffold-369:::fragment_2 427 402570
+>scaffold-369:::fragment_3:::debris 428 6282
+>scaffold-406 429 409178
+>scaffold-135:::fragment_1:::debris 430 3521
+>scaffold-135:::fragment_2 431 380080
+>scaffold-135:::fragment_3:::debris 432 13437
+>scaffold-118 433 393557
+>scaffold-436:::fragment_1 434 382683
+>scaffold-436:::fragment_2:::debris 435 6578
+>scaffold-445 436 384887
+>scaffold-305:::fragment_1:::debris 437 13778
+>scaffold-305:::fragment_2 438 370666
+>scaffold-183 439 382764
+>scaffold-133 440 381428
+>scaffold-172:::fragment_1:::debris 441 10511
+>scaffold-172:::fragment_2 442 353800
+>scaffold-172:::fragment_3:::debris 443 6932
+>scaffold-388 444 368989
+>scaffold-292 445 361349
+>scaffold-330:::fragment_1:::debris 446 15620
+>scaffold-330:::fragment_2 447 341431
+>scaffold-212 448 355482
+>scaffold-285 449 353277
+>scaffold-175 450 350495
+>scaffold-290 451 344483
+>scaffold-226 452 343140
+>scaffold-342:::fragment_1:::debris 453 4258
+>scaffold-342:::fragment_2 454 334502
+>scaffold-280 455 336129
+>scaffold-148 456 325110
+>scaffold-270 457 322761
+>scaffold-171:::fragment_1:::debris 458 2961
+>scaffold-171:::fragment_2 459 314842
+>scaffold-121 460 316943
+>scaffold-176 461 314708
+>scaffold-291:::fragment_1 462 293364
+>scaffold-291:::fragment_2:::debris 463 20445
+>scaffold-391 464 308711
+>scaffold-377:::fragment_1:::debris 465 3801
+>scaffold-377:::fragment_2 466 285480
+>scaffold-377:::fragment_3:::debris 467 1761
+>scaffold-449 468 288291
+>scaffold-294:::fragment_1:::debris 469 1744
+>scaffold-294:::fragment_2 470 269753
+>scaffold-329 471 265334
+>scaffold-220 472 260618
+>scaffold-353 473 250666
+>scaffold-392 474 250553
+>scaffold-155:::fragment_1 475 196933
+>scaffold-155:::fragment_2:::debris 476 1000
+>scaffold-155:::fragment_3 477 50679
+>scaffold-422:::fragment_1:::debris 478 4256
+>scaffold-422:::fragment_2 479 233264
+>scaffold-422:::fragment_3:::debris 480 8945
+>scaffold-346 481 243953
+>scaffold-284 482 243150
+>scaffold-132 483 242201
+>scaffold-236 484 239965
+>scaffold-381 485 237333
+>scaffold-310 486 236620
+>scaffold-414 487 230812
+>scaffold-311:::fragment_1:::debris 488 14435
+>scaffold-311:::fragment_2 489 214408
+>scaffold-311:::fragment_3:::debris 490 1637
+>scaffold-262 491 225842
+>scaffold-198 492 222803
+>scaffold-312 493 222743
+>scaffold-384 494 218036
+>scaffold-375 495 215673
+>scaffold-95:::fragment_1:::debris 496 1053
+>scaffold-95:::fragment_2 497 210294
+>scaffold-282:::fragment_1:::debris 498 7693
+>scaffold-282:::fragment_2 499 192094
+>scaffold-282:::fragment_3:::debris 500 5887
+>scaffold-168 501 202750
+>scaffold-224:::fragment_1:::debris 502 4523
+>scaffold-224:::fragment_2 503 192801
+>scaffold-241:::fragment_1:::debris 504 1360
+>scaffold-241:::fragment_2 505 193509
+>scaffold-395:::fragment_1:::debris 506 1188
+>scaffold-395:::fragment_2 507 186636
+>scaffold-186 508 183276
+>scaffold-304:::fragment_1 509 152244
+>scaffold-304:::fragment_2:::debris 510 27298
+>scaffold-440 511 179477
+>scaffold-269 512 179319
+>scaffold-139 513 178180
+>scaffold-403:::fragment_1:::debris 514 1812
+>scaffold-403:::fragment_2 515 175096
+>scaffold-300:::fragment_1 516 169418
+>scaffold-300:::fragment_2:::debris 517 6610
+>scaffold-373 518 169386
+>scaffold-116 519 162673
+>scaffold-199 520 159007
+>scaffold-275 521 154863
+>scaffold-278 522 153496
+>scaffold-325 523 152322
+>scaffold-356:::fragment_1 524 140009
+>scaffold-356:::fragment_2:::debris 525 4701
+>scaffold-251:::fragment_1 526 133686
+>scaffold-251:::fragment_2:::debris 527 6479
+>scaffold-204 528 137946
+>scaffold-313:::fragment_1:::debris 529 6307
+>scaffold-313:::fragment_2 530 121906
+>scaffold-313:::fragment_3:::debris 531 8758
+>scaffold-396 532 132324
+>scaffold-237:::fragment_1 533 120828
+>scaffold-237:::fragment_2:::debris 534 10417
+>scaffold-238 535 125347
+>scaffold-288 536 122958
+>scaffold-401 537 121453
+>scaffold-230 538 120411
+>scaffold-200 539 119764
+>scaffold-295:::fragment_1 540 97014
+>scaffold-295:::fragment_2:::debris 541 21584
+>scaffold-210 542 118335
+>scaffold-217:::fragment_1:::debris 543 2367
+>scaffold-217:::fragment_2 544 114279
+>scaffold-363 545 114900
+>scaffold-318:::fragment_1:::debris 546 1199
+>scaffold-318:::fragment_2 547 111900
+>scaffold-398 548 104718
+>scaffold-214 549 103843
+>scaffold-430:::fragment_1:::debris 550 4098
+>scaffold-430:::fragment_2 551 97681
+>scaffold-430:::fragment_3:::debris 552 1194
+>scaffold-371:::fragment_1:::debris 553 4171
+>scaffold-371:::fragment_2 554 96412
+>scaffold-371:::fragment_3:::debris 555 1801
+>scaffold-240:::fragment_1 556 48572
+>scaffold-240:::fragment_2:::debris 557 53513
+>scaffold-315:::fragment_1:::debris 558 5134
+>scaffold-315:::fragment_2 559 95630
+>scaffold-351 560 96942
+>scaffold-448 561 95828
+>scaffold-140:::fragment_1 562 74689
+>scaffold-140:::fragment_2:::debris 563 18764
+>scaffold-399 564 93352
+>scaffold-316:::fragment_1:::debris 565 1239
+>scaffold-316:::fragment_2 566 91270
+>scaffold-231 567 91211
+>scaffold-443 568 90222
+>scaffold-253:::fragment_1:::debris 569 1289
+>scaffold-253:::fragment_2 570 87608
+>scaffold-260 571 87644
+>scaffold-427:::fragment_1:::debris 572 2398
+>scaffold-427:::fragment_2 573 85172
+>scaffold-408 574 86627
+>scaffold-289:::fragment_1 575 17830
+>scaffold-289:::fragment_2:::debris 576 13199
+>scaffold-289:::fragment_3 577 19831
+>scaffold-289:::fragment_4:::debris 578 32701
+>scaffold-225:::fragment_1:::debris 579 4699
+>scaffold-225:::fragment_2 580 78332
+>scaffold-223 581 82032
+>scaffold-257:::fragment_1:::debris 582 5646
+>scaffold-257:::fragment_2 583 74517
+>scaffold-307 584 79871
+>scaffold-299:::fragment_1 585 63489
+>scaffold-299:::fragment_2:::debris 586 15975
+>scaffold-245:::fragment_1:::debris 587 17583
+>scaffold-245:::fragment_2 588 61321
+>scaffold-352 589 77938
+>scaffold-385 590 76823
+>scaffold-428 591 76653
+>scaffold-271 592 74659
+>scaffold-266 593 73599
+>scaffold-379 594 72656
+>scaffold-451:::fragment_1:::debris 595 6226
+>scaffold-451:::fragment_2 596 62318
+>scaffold-451:::fragment_3:::debris 597 3732
+>scaffold-138 598 72215
+>scaffold-228 599 70455
+>scaffold-405:::fragment_1:::debris 600 13693
+>scaffold-405:::fragment_2 601 56527
+>scaffold-308:::fragment_1:::debris 602 1013
+>scaffold-308:::fragment_2 603 69048
+>scaffold-263 604 69923
+>scaffold-227 605 69900
+>scaffold-314 606 69755
+>scaffold-319 607 65733
+>scaffold-255:::fragment_1:::debris 608 2772
+>scaffold-255:::fragment_2 609 54000
+>scaffold-255:::fragment_3:::debris 610 7504
+>scaffold-286 611 64227
+>scaffold-296:::fragment_1:::debris 612 41455
+>scaffold-296:::fragment_2 613 19000
+>scaffold-296:::fragment_3:::debris 614 3634
+>scaffold-452 615 63480
+>scaffold-355:::fragment_1:::debris 616 3756
+>scaffold-355:::fragment_2 617 59224
+>scaffold-243:::fragment_1 618 59855
+>scaffold-243:::fragment_2:::debris 619 3000
+>scaffold-354 620 62784
+>scaffold-393 621 60392
+>scaffold-331 622 59296
+>scaffold-298 623 59113
+>scaffold-439:::fragment_1:::debris 624 7042
+>scaffold-439:::fragment_2 625 47631
+>scaffold-439:::fragment_3:::debris 626 3043
+>scaffold-435 627 56359
+>scaffold-394 628 55759
+>scaffold-376 629 55552
+>scaffold-365 630 53984
+>scaffold-335:::fragment_1:::debris 631 10591
+>scaffold-335:::fragment_2 632 42814
+>scaffold-279 633 51942
+>scaffold-415:::fragment_1:::debris 634 9111
+>scaffold-415:::fragment_2 635 40791
+>scaffold-277 636 49778
+>scaffold-197 637 49550
+>scaffold-201 638 47496
+>scaffold-446 639 45699
+>scaffold-203:::fragment_1 640 29661
+>scaffold-203:::fragment_2:::debris 641 15700
+>scaffold-205 642 44736
+>scaffold-222 643 44608
+>scaffold-424 644 44340
+>scaffold-196 645 43376
+>scaffold-418:::fragment_1:::debris 646 8303
+>scaffold-418:::fragment_2 647 34000
+>scaffold-418:::fragment_3:::debris 648 1056
+>scaffold-454:::fragment_1 649 39313
+>scaffold-454:::fragment_2:::debris 650 1671
+>scaffold-421 651 39478
+>scaffold-387:::debris 652 38638
+>scaffold-340:::debris 653 38395
+>scaffold-433:::fragment_1:::debris 654 13697
+>scaffold-433:::fragment_2 655 24233
+>scaffold-272 656 34978
+>scaffold-400 657 34802
+>scaffold-343 658 34381
+>scaffold-229 659 34046
+>scaffold-309 660 33059
+>scaffold-170 661 32344
+>scaffold-344 662 32336
+>scaffold-281 663 32334
+>scaffold-380 664 32209
+>scaffold-211 665 31036
+>scaffold-332 666 30552
+>scaffold-247 667 29859
+>scaffold-368 668 29088
+>scaffold-324 669 28745
+>scaffold-361 670 28697
+>scaffold-367:::fragment_1:::debris 671 1352
+>scaffold-367:::fragment_2 672 26440
+>scaffold-246:::debris 673 24794
+>scaffold-264 674 14688
+>scaffold-218 675 14058
+>scaffold-419 676 14002
+>scaffold-259 677 13620
+>scaffold-438 678 13225
+>scaffold-303 679 13057
+>scaffold-372 680 12059
+>scaffold-370 681 11751
+>scaffold-326 682 10046
+>scaffold-273 683 9284
+>scaffold-334 684 9082
+>scaffold-441 685 8568
+>scaffold-17 686 8213
+>scaffold-216 687 7742
+>scaffold-287 688 7145
+>scaffold-360 689 6252
+>scaffold-320 690 4982
+>scaffold-249 691 4181
+>scaffold-364 692 3061
+>scaffold-50 693 2300
+>scaffold-348 694 1490
+-397 -333 -440 -386 -63 659 -61 -628 636 -455 -580 292 254 319 59 -460 326 -606 -211 215 -349 -240 -135 666 309 377 315 -477 -588 -471 190 -208 -83 140 -284 118 -321 -294 445 -486 -593 -621 -491 182 570 -603 -179 662 638 -336 -452 448 -161 -539 186 -261 470 -323 -651 372 255 -513 -598 392 -191 21 -106 -427 143 -444 -232 -162 -519 244 524 159 107 -635 -370 -352 346 -220 -528 -583 318 -523 -354 178 439 283 -429 -231 259 229 456 400 -226 -279 -275 273 327 271 -613 351 300 420
+-13 73 -607 -19 -70 -4 -657 46 -85 -556 246 -250 -252
+-526 -342 -450 -461 -307 -472 -544 -503 312 -442 479 599 -454 436 618 551 192 -515 507 -194 462 -431 438 -537 343 389 -365 -356 -447 402 419 493 481 -414 -340 -591 -622 375 348 -532 -405 667 509 268 298 -620 173 540 360 -424 381 535 166 -449 672 560 187 -310 371 548 664 -536 656 -605 627 482 564 592 -520 241 -184 -573 23 -66 111 10 -473 -245 304 -302
+-153 -20 -155 -94 -198 393 95 -615 -238 133 -574 -134 -296 637 82 391 407 505 149 -222 172 604 285 -287 399 -313 -596 625 -289 -388 257 -512 -338
+42 6 -670 233 146 -601 663 -668 -617 -223 160 -57 335 -156 113 -164 163 -403 410 -80
+-577 474 -120 -68 -384 -137 642 -67 197 -48 647 655 -139 -358 -521 -658 196 -645 -175 -214 -270 418 131 -499 530 89 -643
+-36 -554 382 -629 -32 30 -28 24 -34 623 567 26 -547 -235 103 -114 11 489 228 -417 -508 128 -522 485 -264 -207 74
+559 644 -374 17 -124 -100 -171 299 -8 611 -221 -217 237 -213 497 -511 -394 633 76 93 660 -110 78
+3 325 464 -91 -451 -148 -669 205 216 -45 329 562 -265 18 -549 -141 176 51
+-331 395 189 -339 -571 15 -81 -117 -1 97 202
+282 96 -433 206 -262 -181 483 -152 -55 86 101 -362 -165 199 -368 545 533 127 494 -87 -345 -38
+65 -99 589 -495 288 367 157 466 566 -639 -379 -361 -357 -484 475 -411 649 277 -413 -314 459 661 242 378 147 218 457 -468 -408 630 -71 -169 568 263 404 -538 -355 585
+609 -434 40 501 -581 150 43 129 -125 -295 -243 -104 516
+204 665 -168 -594 305 -144 -316 590 -492 -350 487 347 -425 174 -50 -188 -122 151 -121 -185 -640 -542 -422 518 416 -561 -209 123 -364
+53
+230
+584 -632
+39
+557
+387
+281
+116
+35
+272
+353
+612
+652
+653
+578
+247
+142
+167
+108
+510
+22
+251
+248
+25
+27
+29
+31
+33
+274
+673
+322
+541
+54
+463
+193
+563
+112
+49
+56
+575
+587
+2
+79
+586
+641
+446
+126
+488
+258
+437
+654
+600
+432
+576
+84
+41
+253
+64
+396
+239
+9
+301
+631
+269
+441
+534
+421
+337
+227
+119
+177
+115
+373
+14
+180
+311
+634
+480
+47
+37
+531
+102
+293
+385
+646
+332
+136
+212
+498
+610
+624
+443
+280
+320
+62
+7
+517
+435
+376
+170
+527
+423
+529
+428
+75
+595
+219
+303
+334
+291
+500
+363
+256
+582
+558
+72
+306
+278
+105
+525
+579
+341
+297
+225
+502
+453
+478
+553
+266
+380
+550
+92
+328
+366
+44
+90
+465
+267
+616
+597
+401
+195
+614
+158
+154
+12
+430
+390
+201
+344
+109
+626
+619
+458
+145
+138
+290
+608
+324
+359
+98
+5
+572
+543
+69
+88
+210
+16
+383
+132
+77
+398
+249
+286
+200
+236
+514
+555
+467
+469
+183
+650
+490
+409
+224
+412
+426
+60
+504
+317
+671
+234
+406
+130
+369
+569
+260
+565
+546
+552
+506
+308
+648
+496
+330
+602
+52
+58
+203
+276
+415
+476
+674
+675
+676
+677
+678
+679
+680
+681
+682
+683
+684
+685
+686
+687
+688
+689
+690
+691
+692
+693
+694

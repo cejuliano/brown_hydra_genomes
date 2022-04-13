@@ -1,0 +1,8 @@
+<jellyProtocol>
+        <reference>/home/jacazet/reference/aepAssembly/resources/references/hic/aepChroms.fasta</reference>
+        <outputDir>/home/jacazet/reference/aepAssembly/07_pbj/pbOut</outputDir>
+    <blasr>-minMatch 8 -minPctIdentity 70 -bestn 1 -nCandidates 20 -maxScore -500 -nproc 24 -noSplitSubreads</blasr>
+    <input baseDir="/home/jacazet/reference/aepAssembly/resources/reads/correctedLR/">
+            <job>NPac.fasta</job>
+    </input>
+</jellyProtocol>

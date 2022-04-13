@@ -1,0 +1,13 @@
+{
+"queries":[
+    {"distance": [30000, 30000], "feature": ["gene"], "feature_anchor": ["start"], "name": "query_1", "relative_location": ["Downstream", "Upstream", "OverlapStart", "FeatureInsidePeak", "PeakInsideFeature", "OverlapEnd"], "strand": "ignore"}
+          ],
+"show_attributes": ["gene_id"],
+"priority": "False",
+"gtf": "HVAEP1.GeneModels.longestIso.gtf",
+"bed": "conMotsATAC.bed",
+"prefix": "conMotATAC",
+"outdir": "motifAnnot",
+"threads": "1",
+"output_by_query": "False"
+}
