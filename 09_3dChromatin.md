@@ -261,7 +261,7 @@ We next wanted to determine if chromatin contact domains influence transcription
 To explore this question, we needed to assign each AEP gene model to a chromatin contact domain. We extracted gene coordinates from the `HVAEP1.GeneModels.gtf` file and converted them into a bed file.
 
 ```bash
-awk 'BEGIN { OFS = "\t" ; FS = "\t" } ; $3 ~ /gene/ {print $1,$4-1,$5,$9,0,$7}' HVAEP1.GeneModels.gtf | sed 's/ID "//g;s/";.*\t0/\t0/g' | gsort -k1,1 -k2,2n > a
+awk 'BEGIN { OFS = "\t" ; FS = "\t" } ; $3 ~ /gene/ {print $1,$4-1,$5,$9,0,$7}' HVAEP1.GeneModels.gtf | sed 's/ID "//g;s/";.*\t0/\t0/g' | gsort -k1,1 -k2,2n > HVAEP1.genes.sorted.bed
 
 gsort -k1,1 -k2,2n aep16k_boundaries.bed > aep16k_boundaries.sorted.bed
 ```
