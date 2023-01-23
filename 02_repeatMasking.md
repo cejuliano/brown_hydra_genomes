@@ -303,6 +303,18 @@ bedtools maskfasta -fi aep.final.genome.fa -bed bothMaskCplx.out.gff -fo aep.gen
 bedtools maskfasta -fi aep.final.genome.fa -bed bothMaskSimp.out.gff -fo aep.genome.simpsoft.fa -soft
 ```
 
+To enable visualization of repeat density throughout the AEP assembly, we generated a bigwig file that quantified the number of repeats present at each position along the genome (essentially just a binary classification). 
+
+(*01_aepRep/repeatDensity.sh*)
+
+```bash
+#!/bin/bash
+
+bedtools genomecov -i bothMaskCplx.out.gff -bga -g ../aep.genome > repDensity.bg
+
+bedGraphToBigWig repDensity.bg ../aep.genome repDensity.bw
+```
+
 ## Masking Repeats in the Strain 105 *H. vulgaris* assembly 
 
 ### Masking Repeats Using RepeatMasker
@@ -933,6 +945,12 @@ ggsave('repPercBar.pdf',width = 10,height = 5)
 │   ├── processBothSimp.sh
 				Shell script that integrates masking results for all simple repeats identified 
 				by runRMaskCplx.sh and runRMaskEukCplx.sh.
+│   ├── repDensity.bw
+				Bigwig file that shows the number of repetitive elements identified at each 
+				position in the AEP genome assembly.
+│   ├── repeatDensity.sh
+				Shell script that quantifies the number of repetitive elements present at each
+				position in the AEP genome assembly and outputs the results as a bigwig file.
 │   ├── runRMaskCplx.sh
 				Shell script that uses the RepeatModeler2 repeat families to identify and mask
 				complex/interspersed repeats in the AEP genome.

@@ -2,7 +2,7 @@
 
 This repository contains step-by-step descriptions of all analyses and associated code related to the following manuscript:
 
->Cazet JF, Siebert S, Morris Little H, Bertemes P, Primack AS, Ladurner P, Achrainer M, Fredriksen MT, Moreland RT, Singh S, Zhang S, Wolfsberg TG, Schnitzler CE, Baxevanis AD, Simakov O, Hobmayer B, and Juliano CE. 2022. New *Hydra* genomes reveal conserved principles of hydrozoan transcriptional regulation. bioRxiv 2022.06.21.496857; doi: [10.1101/2022.06.21.496857](https://doi.org/10.1101/2022.06.21.496857)
+>Cazet JF, Siebert S, Morris Little H,  Bertemes P, Primack AS, Ladurner P, Achrainer M, Fredriksen MT, Moreland RT, Singh S, Zhang S, Wolfsberg TG, Schnitzler CE, Baxevanis AD,  Simakov O, Hobmayer B, Juliano CE. A chromosome-scale epigenetic map of  the *Hydra* genome reveals conserved regulators of cell state.  Genome Res. 2023 Jan 13:gr.277040.122. doi: [10.1101/gr.277040.122](https://doi.org/10.1101/gr.277040.122). PMID: [36639202](https://pubmed.ncbi.nlm.nih.gov/36639202/).
 
 The manuscript is also accompanied by a genome portal, available [here](https://research.nhgri.nih.gov/HydraAEP/), that allows users to interact with and download the data generated in this study. A BLAST server is available to search for genes of interest in the *H. oligactis* and strain AEP *H. vulgaris* gene models. The portal includes an interactive genome browser for visualizing gene models, repetitive regions, ATAC-seq and CUT&Tag peaks, ATAC-seq and CUT&Tag read density, and sequence conservation across the AEP assembly. The website also features an interactive ShinyCell portal for viewing the AEP-aligned *Hydra* single-cell atlas.
 

@@ -39,22 +39,36 @@ enAnnot.h41$mark <- 'H41'
 
 enAnnot.ATAC$mark <- 'ATAC'
 
-enAnnot.both <- rbind(enAnnot.h41,enAnnot.ATAC)
+#plot the distribution of the furthest conserved peak per gene (upstream only)
 
-ggplot(enAnnot.both,aes(distance,color=mark,fill=mark)) + 
+enAnnot.ATAC.l <- enAnnot.ATAC[enAnnot.ATAC$distance < 0,]
+
+enAnnot.ATAC.l <- split(enAnnot.ATAC.l,enAnnot.ATAC.l$gene_id)
+
+enAnnot.ATAC.l <- lapply(enAnnot.ATAC.l, function(x) x[x$distance == max(x$distance),])
+
+enAnnot.ATAC.l <- do.call(rbind, enAnnot.ATAC.l)
+
+
+enAnnot.h41.l <- enAnnot.h41[enAnnot.h41$distance < 0,]
+
+enAnnot.h41.l <- split(enAnnot.h41.l,enAnnot.h41.l$gene_id)
+
+enAnnot.h41.l <- lapply(enAnnot.h41.l, function(x) x[x$distance == max(x$distance),])
+
+enAnnot.h41.l <- do.call(rbind, enAnnot.h41.l)
+
+enAnnot.both.l <- rbind(enAnnot.h41.l,enAnnot.ATAC.l)
+
+ggplot(enAnnot.both.l,aes(distance,color=mark,fill=mark)) + 
   geom_density(alpha=0.2) + 
-  geom_vline(xintercept = -10000,linetype='longdash') + 
-  geom_vline(xintercept = 10000,linetype='longdash') + 
-  xlim(-5e4,5e4) + 
+  geom_vline(xintercept = -2000,linetype='longdash') +
+  xlim(-2e4,100) + 
   theme_bw() + facet_wrap(.~mark)
-ggsave('enDistribution.pdf',width = 9,height=4)
+ggsave('enDistributionL.pdf',width = 9,height=4)
 
-#basic stats on conserved distal peaks
-summary(abs(enAnnot.ATAC$distance))
+length(which(abs(enAnnot.ATAC.l$distance) > 2e3))
+length(which(abs(enAnnot.ATAC.l$distance) > 2e3))/nrow(enAnnot.ATAC.l)
 
-length(which(abs(enAnnot.ATAC$distance) > 1e4))
-length(which(abs(enAnnot.ATAC$distance) > 1e4))/nrow(enAnnot.ATAC)
-
-length(which(abs(enAnnot.h41$distance) > 1e4))
-length(which(abs(enAnnot.h41$distance) > 1e4))/nrow(enAnnot.h41)
-
+length(which(abs(enAnnot.h41.l$distance) > 2e3))
+length(which(abs(enAnnot.h41.l$distance) > 2e3))/nrow(enAnnot.h41.l)
